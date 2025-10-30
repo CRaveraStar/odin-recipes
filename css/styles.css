@@ -1,14 +1,14 @@
-	#chili-img {
+	.chili-img {
 		height: auto;
 		width: 100px;
 	}
 
-    #chowder-img {
+    .chowder-img {
 		height: auto;
 		width: 500px;
 	}
-	
-    #lasagna-img {
+
+    .lasagna-img {
 		height: auto;
 		width: 500px;
 	}
